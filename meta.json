@@ -1,0 +1,23 @@
+{
+  "repo": "pdf-architect-suite",
+  "product": "PDF Architect Suite",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "pdf-architect",
+    "pdf-windows",
+    "system-tools-desktop",
+    "how-to-install-pdf",
+    "pdf-architect-desktop-package",
+    "pdf-workspace",
+    "pdf-architect-pro-tools",
+    "pdf-suite",
+    "zentool-pdf",
+    "pdf-architect-tool-9"
+  ],
+  "site": "zentool.art"
+}
